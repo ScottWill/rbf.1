@@ -1,0 +1,12 @@
+[package]
+name = "rbf"
+version = "0.1.0"
+edition = "2021"
+description = "rust brainf*ck interpreter"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+argh = "0.1.9"
+num-format = "0.4.4"
+regex = "1.7.0"

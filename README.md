@@ -1,0 +1,1 @@
+brainf*ck interpreter written in rust.  some simple optimizations are performed to increase the speed of the bf script
